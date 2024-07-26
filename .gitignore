@@ -150,7 +150,6 @@ nosetests.xml
 coverage.xml
 
 # Sphinx documentation
-docs/
 /docs_src/apidocs
 
 
